@@ -1,8 +1,8 @@
 {
   "slug": "clone-frame",
   "title": "CLONE FRAME HUB",
-  "tagline": "Turns one HTML file plus a local daemon into a desktop for agents — real terminals, an in-app browser, a wallet, and a resident pi coding agent skilled in acp-cli",
-  "description": "CLONE FRAME HUB is a local-first desktop app for working with AI agents: a single-file index.html plus a local Node bridge daemon, installed by double-click, strictly BYOK and model-agnostic — Virtuals EconomyOS Compute works as a drop-in provider. The resident pi coding agent gets a body inside the app: PTY terminals, an in-app browser, panel and file control, a wallet with iNFT support, and bundled skills for acp-cli and on-chain work. Everything is inspectable: public source, a v0.4.1 release with SHA-256 sums, and a 1:21 tour video captured from the running app.",
+  "tagline": "Turns one HTML file plus a local daemon into a desktop for agents — real terminals, an in-app browser, a wallet, and a resident Hermes Agent skilled in acp-cli",
+  "description": "CLONE FRAME HUB is a local-first desktop app for working with AI agents: a single-file index.html plus a local Node bridge daemon, installed by double-click, strictly BYOK and model-agnostic — Virtuals EconomyOS Compute works as a drop-in provider. The resident Hermes Agent gets a body inside the app: PTY terminals, an in-app browser, panel and file control, a wallet with iNFT support — the iNFT collection launches multi-chain, Robinhood Chain first, then Base — and bundled skills for acp-cli and on-chain work. Everything is inspectable: public source, a v0.4.1 release with SHA-256 sums, and a 1:21 tour video captured from the running app.",
   "status": "live",
   "topic": "agents",
   "topics": ["agents", "developer-tools", "skills", "desktop", "byok"],
@@ -48,7 +48,7 @@
     }
   ],
   "feedbackPrompts": [
-    "Which tool should the resident pi agent learn to drive next?",
+    "Which tool should the resident Hermes agent learn to drive next?",
     "Would you run this as your daily driver — and what is missing for that?",
     "Which model or provider should the BYOK picker support out of the box?"
   ]
